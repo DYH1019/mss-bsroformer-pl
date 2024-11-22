@@ -1,4 +1,4 @@
-# Music Source Separation BS-RoFormer Pytorch-lightning
+# Music Source Separation BS-RoFormer Pytorch-Lightning
 
 A training and inference code of Music Source Separation based on Pytorch-Lightning.
 
